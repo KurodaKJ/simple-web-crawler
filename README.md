@@ -9,3 +9,5 @@ Then
 ```
 ./simple_web_crawler
 ```
+This is the sample output:
+![image](https://github.com/KurodaKJ/simple-web-crawler/assets/70169841/0fec9ed5-e3a8-48ca-89ed-091b41429330)
